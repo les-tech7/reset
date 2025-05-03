@@ -264,7 +264,7 @@ password: ${password}
 Dan ubah password bosku sesuai dengan keinginan bosku
 Jangan beritahu password bosku kepada orang lain untuk keamanan akun bosku 🙂
 
-Link login :https://toto12oslo.com/`;
+Link login :https://toto12oslo.net/`;
 
       const copyText = document.getElementById("full-text");
       copyText.value = newText;
