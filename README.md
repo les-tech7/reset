@@ -171,7 +171,7 @@ password:
 Dan ubah password bosku sesuai dengan keinginan bosku
 Jangan beritahu password bosku kepada orang lain untuk keamanan akun bosku 🙂
 
-Link login : https://toto12sugar.org
+Link login : https://toto12sugar.org/
     </textarea><br />
     <button class="btn-neon copy-btn" onclick="copyAndChangePassword()">📋 Copy Cok!</button>
   </div>
