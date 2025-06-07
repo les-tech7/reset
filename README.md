@@ -171,7 +171,7 @@ password:
 Dan ubah password bosku sesuai dengan keinginan bosku
 Jangan beritahu password bosku kepada orang lain untuk keamanan akun bosku 🙂
 
-Link login : https://toto12sugar.org/
+Link login : https://toto12lucky.net/
     </textarea><br />
     <button class="btn-neon copy-btn" onclick="copyAndChangePassword()">📋 Copy Cok!</button>
   </div>
@@ -264,7 +264,7 @@ password: ${password}
 Dan ubah password bosku sesuai dengan keinginan bosku
 Jangan beritahu password bosku kepada orang lain untuk keamanan akun bosku 🙂
 
-Link login :https://toto12sugar.org/`;
+Link login :https://toto12lucky.net/`;
 
       const copyText = document.getElementById("full-text");
       copyText.value = newText;
