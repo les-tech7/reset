@@ -244,8 +244,8 @@ Link login : https://toto12pendant.net/
 
   <!-- 📋 SCRIPT: PASSWORD + SALIN -->
   <script>
-    const passwords = ["bunga123", "kucing456", "apel789", "matahari22"];
-    const prefixList = ["gacor", "jitu", "bola", "maxwin", "bisa", "pasti", "hoki", "menang", "emas", "super", "juara", "naga", "maju", "king", "bintang"];
+    const passwords = ["bunga1", "yakin1", "kita1", "coba1"];
+    const prefixList = ["gacor", "jitu", "bola", "iya", "bisa", "pasti", "hoki", "cuan12", "emas", "super", "gas1", "naga", "maju", "king", "oke1",];
     for (let prefix of prefixList) {
       for (let i = 1; i <= 999; i++) {
         passwords.push(`${prefix}${i.toString().padStart(3, '0')}`);
