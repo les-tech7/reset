@@ -245,7 +245,7 @@ Link login : https://toto12poker.net/
   <!-- 📋 SCRIPT: PASSWORD + SALIN -->
   <script>
     const passwords = ["manis1", "ganteng1", "lucu1", "imut1"];
-    const prefixList = ["manis", "ganteng", "lucu", "imut", "cantik", "tampan", "gula", "sakti", "mantap", "motor", "kuku", "kaki", "bilang", "cuan", "emas", "super", "gas1", "naga", "maju", "king", "oke1",];
+    const prefixList = ["manis", "ganteng", "lucu", "imut", "cantik", "tampan", "gula", "sakti", "mantap", "motor", "kuku", "kaki", "bilang", "manja", "silver", "kain", "dia1", "jika", "kita", "jual", "kilat",];
     for (let prefix of prefixList) {
       for (let i = 1; i <= 999; i++) {
         passwords.push(`${prefix}${i.toString().padStart(3, '0')}`);
